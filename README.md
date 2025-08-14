@@ -17,28 +17,6 @@ Spring Boot Backend – Fast, secure, and scalable backend using Java.
 
 Frontend in HTML/CSS/JS – Lightweight, responsive UI.
 
-
-📂 Project Structure
-
-public/
- ├── index.html          # Landing page
- ├── jobs.html           # Job listings
- ├── apply.html          # Application form
- ├── admin.html          # Admin dashboard
- └── js/                 # Frontend scripts
-
-src/main/java/com/jobportal/
- ├── models/             # Job & Application entities
- ├── repositories/       # Spring Data JPA repositories
- ├── controllers/        # REST API controllers
- ├── security/           # Basic security configuration
- └── JobApplicationPortalApplication.java
-
-src/main/resources/
- └── application.properties # App configuration
-
-pom.xml                  # Maven dependencies
-
 🛠 Installation & Setup
 
 Prerequisites
